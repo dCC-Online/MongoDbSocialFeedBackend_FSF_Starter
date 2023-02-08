@@ -1,4 +1,5 @@
 const express = require("express");
+const router = express.Router();
 // TODO: Import Model and validation function for Post
 // TODO: Import all controller functions from controllers/postController.js
 
